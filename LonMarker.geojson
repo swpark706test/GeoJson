@@ -1,0 +1,70 @@
+{
+            "type": "FeatureCollection",
+            "feature": [{
+                    "type": "Feature",
+                    "properties": {
+                        "id": "Trafalgar Square",
+                        "name": "트라팔가 광장",
+                        "src": 'images/london/round_Trafalgar_Square.png',
+                        "img": 'images/london/square_hyde_park.jpg',
+                        "iconSize": [50, 50]
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -0.128, 51.508
+                        ]
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "Tower Bridge",
+                        "name": "타워 브릿지",
+                        "src": 'images/london/round_Tower_Bridge.png',
+                        "img": 'images/london/square_hyde_park.jpg',
+                        "stars": 0,
+                        "reviews": 30,
+                        "iconSize": [50, 50]
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -0.0767, 51.506
+                        ]
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "Hyde Park",
+                        "name": "하이드 파크",
+                        "src": 'images/london/round_Hyde_Park.png',
+                        "img": 'images/london/square_hyde_park.jpg',
+                        "iconSize": [50, 50]
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -0.1666, 51.5074
+                        ]
+                    }
+                },
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "id": "St. Paul's Catherdral",
+                        "name": "세인트 폴 대성당",
+                        "src": 'images/london/round_Saint_Paul.png',
+                        "img": 'images/london/square_hyde_park.jpg',
+                        "iconSize": [50, 50]
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -0.0983, 51.5139
+                        ]
+                    }
+                }
+            ]
+        }
